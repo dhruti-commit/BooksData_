@@ -15,6 +15,6 @@ Use Case: Remove book details using id from the database.
  
 Instruction to run locally:
 
-clone the repository https://github.com/dhruti-commit/book_data.git
+clone the repository https://github.com/dhruti-commit/books_data.git
 
 install dependencies mongoose, cors, body-parser, express
